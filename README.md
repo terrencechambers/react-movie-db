@@ -1,7 +1,12 @@
-stopped at 40:10
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Troubleshooting
+
+Error: Failed to compile, createRequire is not a function Referenced from: BaseConfig
+
+Fix: Use bash and not zsh to run npm start until a fix is found for zsh.
 
 ## Available Scripts
 

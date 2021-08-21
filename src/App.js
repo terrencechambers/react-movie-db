@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Styles
-import { GlobalStyle } from './GlobalStyle';
+import GlobalStyle from './GlobalStyle';
 
 const App = () => {
   return (
