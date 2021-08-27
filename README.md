@@ -2,6 +2,8 @@
 left off 3:22:00
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[React Router v6](https://github.com/remix-run/react-router/releases/tag/v6.0.0-beta.2)
+
 ## Troubleshooting
 
 Error: Failed to compile, createRequire is not a function Referenced from: BaseConfig
