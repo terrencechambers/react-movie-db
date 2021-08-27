@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-left off 3:13
+left off 3:22:00
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Troubleshooting

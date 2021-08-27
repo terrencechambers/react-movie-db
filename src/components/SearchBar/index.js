@@ -26,7 +26,7 @@ const SearchBar = ({ setSearchTerm }) => {
     return (
         <Wrapper>
             <Content>
-                <img src={searchIcon} alt='searc icon' />
+                <img src={searchIcon} alt='search icon' />
                 <input
                     type='text'
                     placeholder='Search Movie'
