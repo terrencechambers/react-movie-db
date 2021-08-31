@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-left off 4:34:00
+left off 4:59:38
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [React Router v6](https://github.com/remix-run/react-router/releases/tag/v6.0.0-beta.2)
