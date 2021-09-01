@@ -35,6 +35,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 To have routing work on Netlify, create _redirects in /build if building out of that or add to /public. Add
 /* /index.html 200 to the _redirect file.
 
+If using Netlify, set the REACT_APP_API_KEY as the new variable in Advanced building settings when setting up the build commands.
+
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
