@@ -32,7 +32,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-To have routing work on Netlify, create _redirects in /build. Add
+To have routing work on Netlify, create _redirects in /build if building out of that or add to /public. Add
 /* /index.html 200 to the _redirect file.
 
 The build is minified and the filenames include the hashes.\
